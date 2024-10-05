@@ -35,7 +35,7 @@ Você pode [acessar o figma do projeto aqui](https://www.figma.com/design/Sz1gmm
 
 ## 🛠️ Abrir e rodar o projeto
 
-Para executar a API fake, você vai precisar do NodeJS; a versão utilizada foi a 20.12.2.
+Para executar a API fake, você vai precisar do NodeJS; a versão utilizada foi a 20.18.0.
 
 Instale o JSON Server globalmente (se ainda não estiver instalado):
 
